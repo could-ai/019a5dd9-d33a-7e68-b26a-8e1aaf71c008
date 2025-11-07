@@ -95,10 +95,10 @@ class CasinoHotelsPage extends StatelessWidget {
                   'Casino hotels in New York are more than just places to stay—they are immersive destinations where luxury, entertainment, and excitement come together. Each casino resort combines world-class gaming with refined hospitality, offering guests the perfect balance between vibrant nightlife and soothing relaxation. Whether visiting New York City, the Catskills, or the rolling hills of Central New York, travelers discover casino hotels that redefine the art of leisure and entertainment.',
                 ),
                 _buildParagraph(
-                  'Inside these resorts, the energy is magnetic. The casino floors pulse with anticipation as players move between slot machines, poker tables, roulette wheels, and high-stakes games. Whether you\\'re a casual visitor or a seasoned player, New York\\'s top casino hotels deliver an unmatched gaming experience in sleek, modern settings. Beyond the gaming floors, guests are treated to upscale accommodations, spa retreats, fine dining, and live performances that transform each resort into a complete entertainment destination.',
+                  "Inside these resorts, the energy is magnetic. The casino floors pulse with anticipation as players move between slot machines, poker tables, roulette wheels, and high-stakes games. Whether you're a casual visitor or a seasoned player, New York's top casino hotels deliver an unmatched gaming experience in sleek, modern settings. Beyond the gaming floors, guests are treated to upscale accommodations, spa retreats, fine dining, and live performances that transform each resort into a complete entertainment destination.",
                 ),
                 _buildParagraph(
-                  'Hospitality takes center stage at New York\\'s premier casino hotels. Visitors enjoy spacious rooms with contemporary décor, plush bedding, and amenities that ensure every stay feels indulgent. On-site spas, pools, and wellness centers invite relaxation between nights of excitement. From world-renowned restaurants to cozy cocktail lounges, dining at these resorts is as much a highlight as the gaming itself.',
+                  "Hospitality takes center stage at New York's premier casino hotels. Visitors enjoy spacious rooms with contemporary decor, plush bedding, and amenities that ensure every stay feels indulgent. On-site spas, pools, and wellness centers invite relaxation between nights of excitement. From world-renowned restaurants to cozy cocktail lounges, dining at these resorts is as much a highlight as the gaming itself.",
                 ),
                 _buildParagraph(
                   'Below are the top three casino hotels in New York that exemplify the best in luxury, gaming, and entertainment.',
@@ -113,7 +113,7 @@ class CasinoHotelsPage extends StatelessWidget {
                     HotelDetailSection(
                       title: 'Gaming:',
                       content:
-                          'Turning Stone is a world-class gaming destination offering more than 120,000 square feet of excitement. Guests can enjoy over 2,000 slot machines, a dedicated poker room, and an extensive selection of table games including blackjack, baccarat, and roulette. The resort\\'s elegant gaming floor is complemented by professional dealers and attentive service that make every moment memorable.',
+                          "Turning Stone is a world-class gaming destination offering more than 120,000 square feet of excitement. Guests can enjoy over 2,000 slot machines, a dedicated poker room, and an extensive selection of table games including blackjack, baccarat, and roulette. The resort's elegant gaming floor is complemented by professional dealers and attentive service that make every moment memorable.",
                     ),
                     HotelDetailSection(
                       title: 'Casino Hotel Amenities:',
@@ -128,7 +128,7 @@ class CasinoHotelsPage extends StatelessWidget {
                     HotelDetailSection(
                       title: 'General Atmosphere:',
                       content:
-                          'Turning Stone blends resort elegance with the thrill of a world-class casino. Surrounded by the scenic countryside of Central New York, it\\'s both an entertainment hub and a peaceful escape—perfect for those seeking sophistication and excitement in equal measure.',
+                          "Turning Stone blends resort elegance with the thrill of a world-class casino. Surrounded by the scenic countryside of Central New York, it's both an entertainment hub and a peaceful escape—perfect for those seeking sophistication and excitement in equal measure.",
                     ),
                   ],
                 ),
@@ -143,7 +143,7 @@ class CasinoHotelsPage extends StatelessWidget {
                     HotelDetailSection(
                       title: 'Gaming:',
                       content:
-                          'Nestled in the heart of the Catskills, Resorts World Catskills offers one of the largest gaming floors in the state. The 100,000-square-foot casino features over 1,600 slot machines and 150 live table games, providing nonstop excitement for every type of player. The resort\\'s high-limit areas and private gaming salons cater to guests who seek exclusivity and luxury.',
+                          "Nestled in the heart of the Catskills, Resorts World Catskills offers one of the largest gaming floors in the state. The 100,000-square-foot casino features over 1,600 slot machines and 150 live table games, providing nonstop excitement for every type of player. The resort's high-limit areas and private gaming salons cater to guests who seek exclusivity and luxury.",
                     ),
                     HotelDetailSection(
                       title: 'Casino Hotel Amenities:',
@@ -153,12 +153,12 @@ class CasinoHotelsPage extends StatelessWidget {
                     HotelDetailSection(
                       title: 'Dining Options:',
                       content:
-                          'From fine dining at Cellaio, an Italian steakhouse by celebrity chef Scott Conant, to casual spots like Dos Gatos Cantina and Lotus, Resorts World Catskills delivers a variety of culinary adventures. Each restaurant is designed to complement the resort\\'s sophisticated atmosphere and diverse clientele.',
+                          "From fine dining at Cellaio, an Italian steakhouse by celebrity chef Scott Conant, to casual spots like Dos Gatos Cantina and Lotus, Resorts World Catskills delivers a variety of culinary adventures. Each restaurant is designed to complement the resort's sophisticated atmosphere and diverse clientele.",
                     ),
                     HotelDetailSection(
                       title: 'General Atmosphere:',
                       content:
-                          'A luxurious mountain retreat that combines natural beauty with gaming glamour, Resorts World Catskills offers a refined escape just two hours from New York City. It\\'s where relaxation meets exhilaration, all under one roof.',
+                          "A luxurious mountain retreat that combines natural beauty with gaming glamour, Resorts World Catskills offers a refined escape just two hours from New York City. It's where relaxation meets exhilaration, all under one roof.",
                     ),
                   ],
                 ),
@@ -173,12 +173,12 @@ class CasinoHotelsPage extends StatelessWidget {
                     HotelDetailSection(
                       title: 'Gaming:',
                       content:
-                          'As New York City\\'s premier casino hotel, Resorts World New York City brings the energy of Vegas to the heart of Queens. The massive gaming floor houses more than 6,500 slot machines and electronic table games, offering endless entertainment only minutes from JFK Airport. The electric ambiance and 24-hour action make it a must-visit for travelers seeking excitement close to the city.',
+                          "As New York City's premier casino hotel, Resorts World New York City brings the energy of Vegas to the heart of Queens. The massive gaming floor houses more than 6,500 slot machines and electronic table games, offering endless entertainment only minutes from JFK Airport. The electric ambiance and 24-hour action make it a must-visit for travelers seeking excitement close to the city.",
                     ),
                     HotelDetailSection(
                       title: 'Casino Hotel Amenities:',
                       content:
-                          'The attached Hyatt Regency provides contemporary luxury with stylish rooms, high-end finishes, and excellent city or airport views. Guests have access to meeting spaces, a fitness center, and premium concierge services. It\\'s an ideal stopover for both business travelers and leisure guests who want the thrill of a casino experience without leaving New York City.',
+                          "The attached Hyatt Regency provides contemporary luxury with stylish rooms, high-end finishes, and excellent city or airport views. Guests have access to meeting spaces, a fitness center, and premium concierge services. It's an ideal stopover for both business travelers and leisure guests who want the thrill of a casino experience without leaving New York City.",
                     ),
                     HotelDetailSection(
                       title: 'Dining Options:',
@@ -188,7 +188,7 @@ class CasinoHotelsPage extends StatelessWidget {
                     HotelDetailSection(
                       title: 'General Atmosphere:',
                       content:
-                          'Blending urban energy with resort sophistication, the Hyatt Regency at Resorts World New York captures the spirit of the city that never sleeps. It\\'s the perfect choice for visitors who want high-energy entertainment within easy reach of Manhattan and JFK Airport.',
+                          "Blending urban energy with resort sophistication, the Hyatt Regency at Resorts World New York captures the spirit of the city that never sleeps. It's the perfect choice for visitors who want high-energy entertainment within easy reach of Manhattan and JFK Airport.",
                     ),
                   ],
                 ),
