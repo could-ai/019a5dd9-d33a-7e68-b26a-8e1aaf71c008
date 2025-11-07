@@ -44,7 +44,7 @@ class CasinoHotelsPage extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                // Age verification image with link
+                // Age verification image with link at the top
                 GestureDetector(
                   onTap: () => _launchURL('https://spinwisegb.com/'),
                   child: MouseRegion(
@@ -64,7 +64,9 @@ class CasinoHotelsPage extends StatelessWidget {
                     ),
                   ),
                 ),
-                const SizedBox(height: 60),
+                
+                // 1200px spacing between image and text content
+                const SizedBox(height: 1200),
 
                 // Main Heading
                 const Text(
@@ -92,7 +94,7 @@ class CasinoHotelsPage extends StatelessWidget {
                 const SizedBox(height: 15),
 
                 _buildParagraph(
-                  'Casino hotels in New York are more than just places to stay—they are immersive destinations where luxury, entertainment, and excitement come together. Each casino resort combines world-class gaming with refined hospitality, offering guests the perfect balance between vibrant nightlife and soothing relaxation. Whether visiting New York City, the Catskills, or the rolling hills of Central New York, travelers discover casino hotels that redefine the art of leisure and entertainment.',
+                  "Casino hotels in New York are more than just places to stay—they are immersive destinations where luxury, entertainment, and excitement come together. Each casino resort combines world-class gaming with refined hospitality, offering guests the perfect balance between vibrant nightlife and soothing relaxation. Whether visiting New York City, the Catskills, or the rolling hills of Central New York, travelers discover casino hotels that redefine the art of leisure and entertainment.",
                 ),
                 _buildParagraph(
                   "Inside these resorts, the energy is magnetic. The casino floors pulse with anticipation as players move between slot machines, poker tables, roulette wheels, and high-stakes games. Whether you're a casual visitor or a seasoned player, New York's top casino hotels deliver an unmatched gaming experience in sleek, modern settings. Beyond the gaming floors, guests are treated to upscale accommodations, spa retreats, fine dining, and live performances that transform each resort into a complete entertainment destination.",
